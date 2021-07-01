@@ -12,7 +12,7 @@
     "lerna-publish-release": "bin/lerna-publish-release"
   },
   "keywords": [],
-  "devDependencies": {
+  "dependencies": {
     "simple-git": "^2.40.0"
   }
 }
