@@ -1,6 +1,6 @@
 {
   "name": "@cresta/lerna-actions",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/cresta"
   },
@@ -13,6 +13,8 @@
   },
   "keywords": [],
   "dependencies": {
-    "simple-git": "^2.40.0"
+    "shelljs": "^0.8.4",
+    "simple-git": "^2.40.0",
+    "yargs": "^17.0.1"
   }
 }
