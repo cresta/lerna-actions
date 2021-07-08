@@ -1,3 +1,2 @@
-#!/usr/bin/env node --unhandled-rejections=strict
-const lernaPublishRelease = require("../lib/lerna-publish-release.js");
-lernaPublishRelease();
+#!/usr/bin/env node
+require("../lib/lerna-publish-release.js");
